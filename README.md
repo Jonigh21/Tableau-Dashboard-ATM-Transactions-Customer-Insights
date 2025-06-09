@@ -1,6 +1,9 @@
 Tableau Project: ATM Transactions & Customer Insights
+
 Tool: Tableau
+
 Project Type: Interactive Dashboard & Visual Analytics
+
 Completed by: Jonigh McGee
 
 Project Overview:
